@@ -1,7 +1,7 @@
 # Lendo um potenciometro
  Este experimento consistem em fazer a leitura do potenciômetro conectado a porta analógica 0 e escreveremos o valor lido no monitor serial. 
 
- <b><a href="https://www.tinkercad.com/things/lNr5WcQx7it">Clique Aqui</a></b> para ver o projeto no Tinkercard!
+ <b><a href="https://www.tinkercad.com/things/lNr5WcQx7it">Clique Aqui</a></b> para ver o projeto em Tinkercard.com!
  
 ## Lista de componentes:
 
